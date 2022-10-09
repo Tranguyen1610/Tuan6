@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "To-do_App_feachAPI",
+    "slug": "To-do_App_feachAPI",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
